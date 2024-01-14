@@ -1,0 +1,88 @@
+[
+  {
+    "word": "dilettante",
+    "senses": [
+      {
+        "sense": "1",
+        "pronunciation": "diləˈtänt, -ˈtäntē",
+        "part of speech": "noun",
+        "definition": "a person who cultivates an area of interest, such as the arts, without real commitment or knowledge.",
+        "examples": [
+          "a dilettante approach to science",
+          "a dilettante filmmaker"
+        ],
+        "themes": [
+          "art",
+          "culture",
+          "politics",
+          "society"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "junket",
+    "senses": [
+      {
+        "sense": "1",
+        "pronunciation": "ˈjəNGkət",
+        "part of speech": "noun",
+        "definition": "a dish of sweetened and flavored curds of milk, often served with fruit.",
+        "examples": [
+          "a junket of strawberries and cream"
+        ],
+        "themes": [
+          "food"
+        ]
+      },
+      {
+        "sense": "2",
+        "pronunciation": "ˈjəNGkət",
+        "part of speech": "noun",
+        "definition": "A trip or party, especially one enjoyed by an official at public expense.",
+        "examples": [
+          "a lavish five-day junket to Bermuda",
+          "a press junket",
+          "a junket to the Bahamas"
+        ],
+        "themes": [
+          "travel"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sinecure",
+    "senses": [
+      {
+        "sense": "1",
+        "pronunciation": "ˈsinəˌkyo͝or",
+        "part of speech": "noun",
+        "definition": "a position requiring little or no work but giving the holder status or financial benefit.",
+        "examples": [
+          "political sinecures for the supporters of ministers",
+          "the church was a comfortable sinecure for the younger son of a noble family"
+        ],
+        "themes": [
+          "politics",
+          "society",
+          "justice"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "expidiency",
+    "senses": [
+      {
+        "sense": "1",
+        "pronunciation": "ikˈspēdēənsē",
+        "part of speech": "noun",
+        "definition": "the quality of being convenient and practical despite possibly being improper or immoral; convenience.",
+        "examples": [
+          "the expediency of the current regime"
+        ]
+      }
+    ]
+  }
+]
